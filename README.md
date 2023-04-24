@@ -7,7 +7,7 @@ This assignment will incentivize you to get familiar with the different GitHub w
 Using your personal GitHub account [create a public, empty GitHub repository](https://github.com/new) called `CS471WorkflowsHomeworkAssignment`.
 
 The following options should be **disabled**/**unchecked**:
-- `Add a README file`
+- `Add a _README_ file`
 - `Add .gitignore`
 - `Choose a license`
 
