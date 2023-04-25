@@ -17,7 +17,7 @@ The following options should be **disabled**/**unchecked**:
 
 Feel free to delete the repository (or make it private) once you complete the assignment.
 
-Creating a public repository will allow you to [visualize your repository history and see all the branches](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/understanding-connections-between-repositories#viewing-a-repositorys-network), which is a feature that will be extremely useful in this assignment.
+Creating a public repository will allow you to [visualize your repository history and see all the branches](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/understanding-connections-between-repositories#viewing-a-repositorys-network), which is a feature that will be _extremely_ useful in this assignment.
 
 However, this [repository insights](https://github.com/pricing#compare-features) feature:
 - is not available for personal **private** repositories,
