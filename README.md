@@ -1,5 +1,5 @@
 # Workflows and Integration Strategies
-This assignment will incentivize you to get familiar with the different GitHub workflow strategies for:
+This assignment _will_ incentivize you to get familiar with the different GitHub workflow strategies for:
 - integrating/merging pull requests and
 - establishing traceability between commits, tasks and pull requests
 
@@ -7,7 +7,7 @@ This assignment will incentivize you to get familiar with the different GitHub w
 Using your personal GitHub account [create a public, empty GitHub repository](https://github.com/new) called `CS471WorkflowsHomeworkAssignment`.
 
 The following options should be **disabled**/**unchecked**:
-- `Add a README file`
+- `Add a _README_ file`
 - `Add .gitignore`
 - `Choose a license`
 
@@ -17,7 +17,7 @@ The following options should be **disabled**/**unchecked**:
 
 Feel free to delete the repository (or make it private) once you complete the assignment.
 
-Creating a public repository will allow you to [visualize your repository history and see all the branches](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/understanding-connections-between-repositories#viewing-a-repositorys-network), which is a feature that will be extremely useful in this assignment.
+Creating a public repository will allow you to [visualize your repository history and see all the branches](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/understanding-connections-between-repositories#viewing-a-repositorys-network), which is a feature that will be _extremely_ useful in this assignment.
 
 However, this [repository insights](https://github.com/pricing#compare-features) feature:
 - is not available for personal **private** repositories,
